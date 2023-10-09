@@ -9,7 +9,7 @@ Para o desenvolvimento deste projeto, utilizou-se a IDE Spring Tool Suite 4, ain
 3. MySql
 
 
-## Dependências:
+### Dependências:
 
 1. Spring Web
 2. Spring Data JPA
