@@ -1,17 +1,19 @@
-Exemplo de Api - Cursos
+#Exemplo de Api - Cursos
 Este repositório contém um código desenvolvido em sala de aula na disciplina de back-end.
 
-Como usar
+#Como usar
 Para o desenvolvimento deste projeto, utilizou-se a IDE Spring Tool Suite 4, ainda, deve-se criar o projeto utilizando:
 
-Maven
-Java 17
-MySql
-Dependências:
+1. Maven
+2. Java 17
+3. MySql
+4.
 
-Spring Web
-Spring Data JPA
-Spring Dev Tools
-Driver MySql
-Lombok
-Bean Validation
+#Dependências:
+
+1. Spring Web
+2. Spring Data JPA
+3. Spring Dev Tools
+4. Driver MySql
+5. Lombok
+6. Bean Validation
